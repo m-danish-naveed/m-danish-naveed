@@ -7,7 +7,7 @@ I specialize in designing robust, scalable backend architectures, enterprise RES
 - 🛠️ Actively building automated systems and multi-tenant platforms.
 - 🎯 Focused on writing clean, maintainable, and highly optimized code.
 
-  ## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
 ### Languages & Backend Frameworks
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -23,7 +23,7 @@ I specialize in designing robust, scalable backend architectures, enterprise RES
 - **Networking & Infrastructure:** Wide Area Networks (WAN), Hub-and-Spoke Topology, Cisco Packet Tracer
 - **Automation:** Business Process Automation, Workflow Optimization, Automated CRM Configurations
 
-  ## 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=M Danish Naveed &show_icons=true&theme=transparent&hide_border=true&title_color=007acc&icon_color=007acc&text_color=777777" alt="GitHub Stats" height="150" />
