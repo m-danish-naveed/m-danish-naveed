@@ -221,19 +221,33 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-danish-nav
 
 ---
 
-## 📫 Connect With Me
+## 📫 Contact Me
 
 <p align="left">
 
 <a href="https://github.com/m-danish-naveed" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-m--danish--naveed-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="www.linkedin.com/in/m-danish-naveed" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Danish%20Naveed-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-m--danish--naveed-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </p>
+
+<p align="left">
+
+<a href="www.linkedin.com/in/m-danish/naveed" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Danish%20Naveed-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</p>
+
+<p align="left">
+
+<a href="mailto:danish.naveed.work@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
+
+---
 
 ---
 
