@@ -229,7 +229,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-danish-nav
 <img src="https://img.shields.io/badge/GitHub-m--danish--naveed-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL" target="_blank">
+<a href="www.linkedin.com/in/m-danish-naveed" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Danish%20Naveed-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
