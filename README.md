@@ -224,12 +224,15 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-danish-nav
 ## 📫 Connect With Me
 
 <p align="left">
-<a href="https://github.com/m-danish-naveed">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danish.naveed.work@gmail.com)
-
+<a href="https://github.com/m-danish-naveed" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-m--danish--naveed-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+<a href="YOUR_LINKEDIN_URL" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Danish%20Naveed-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 </p>
 
 ---
