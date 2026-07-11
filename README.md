@@ -2,11 +2,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6DB33F&height=200&section=header&text=Danish%20Naveed&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20%7C%20SQA%20%26%20Automation%20Enthusiast&descAlignY=55&descSize=18"/>
 
-<a href="https://github.com/m-danish-naveed">
-<img src="https://komarev.com/ghpvc/?username=m-danish-naveed&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</a>
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Backend+Engineer+%7C+Spring+Boot+%7C+Microservices;SQA+%26+Test+Automation+Enthusiast;CRM+%26+Workflow+Automation+Builder;Building+Scalable%2C+Secure+Systems;&font=Fira%20Code&center=true&width=600&height=45&color=0e75b6&vCenter=true&size=22"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=Backend+Engineer+%7C+Spring+Boot+%7C+Microservices;SQA+%26+Test+Automation+Enthusiast;CRM+%26+Workflow+Automation+Builder;Building+Scalable%2C+Secure+Systems;&font=Fira%20Code&center=true&width=700&height=45&color=0e75b6&vCenter=true&size=20"/>
+
+<br/><br/>
+
+<a href="https://github.com/m-danish-naveed">
+<img src="https://komarev.com/ghpvc/?username=m-danish-naveed&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+</a>
 
 </div>
 
@@ -111,63 +115,97 @@ I specialize in backend architecture, API development, database design, and soft
 
 ## 💼 Featured Projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### 🔐 Secure Task Manager API
 
-Enterprise-grade task management platform built using Spring Boot, Spring Security, JWT, PostgreSQL, and Swagger.
+Enterprise-grade task management platform with secure authentication and fine-grained access control.
 
-**Key Features**
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens"/> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black"/>
 
-- JWT Authentication
-- Role-Based Access Control (RBAC)
-- Secure REST APIs
-- DTO Pattern
-- Validation & Exception Handling
-- PostgreSQL Integration
-- Swagger/OpenAPI Documentation
-- Unit Testing
+<details>
+<summary>✨ Key Features</summary>
+<br/>
 
----
+- JWT Authentication & Role-Based Access Control (RBAC)
+- Secure REST APIs with the DTO pattern
+- Centralized validation & exception handling
+- PostgreSQL integration
+- Swagger / OpenAPI documentation
+- Unit testing coverage
+
+</details>
+
+</td>
+<td width="50%" valign="top">
 
 ### 🏢 Multi-Tenant CRM Platform
 
-Scalable business management platform designed around tenant isolation and secure data access.
+Scalable business management platform built around tenant isolation and secure data access.
 
-**Key Features**
+<img src="https://img.shields.io/badge/Multi--Tenant-0A66C2?style=flat-square"/> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
 
-- Multi-Tenant Architecture
-- User Management
-- Secure API Design
-- Business Workflow Automation
-- PostgreSQL Integration
+<details>
+<summary>✨ Key Features</summary>
+<br/>
 
----
+- Multi-tenant architecture with strict data isolation
+- User management & role administration
+- Secure API design
+- Business workflow automation
+- PostgreSQL integration
+
+</details>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### ⚙️ CRM Workflow Automation Suite
 
-Automated lead-to-customer workflows connecting CRM platforms with third-party services to remove manual, repetitive tasks.
+Automated lead-to-customer workflows connecting CRM platforms with third-party services to eliminate manual, repetitive tasks.
 
-**Key Features**
+<img src="https://img.shields.io/badge/GoHighLevel-000000?style=flat-square"/> <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/> <img src="https://img.shields.io/badge/Webhooks-FF6B35?style=flat-square"/>
 
-- GoHighLevel Pipeline & Funnel Automation
-- n8n-Based Workflow Orchestration
-- Event-Driven Triggers & Webhooks
-- API Integrations Across Multiple Platforms
-- Automated Lead Routing & Follow-Ups
+<details>
+<summary>✨ Key Features</summary>
+<br/>
 
----
+- GoHighLevel pipeline & funnel automation
+- n8n-based workflow orchestration
+- Event-driven triggers & webhooks
+- API integrations across multiple platforms
+- Automated lead routing & follow-ups
+
+</details>
+
+</td>
+<td width="50%" valign="top">
 
 ### 🌐 ISP Network Topology Simulation
 
-Large-scale ISP infrastructure simulation built using Cisco Packet Tracer.
+Large-scale ISP infrastructure simulation covering end-to-end internet provisioning.
 
-**Key Features**
+<img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/> <img src="https://img.shields.io/badge/Networking-0A66C2?style=flat-square"/>
 
-- OSPF Routing
-- RIP Routing
-- DHCP Configuration
-- DNS Services
-- WAN Connectivity
-- End-to-End Internet Provisioning
+<details>
+<summary>✨ Key Features</summary>
+<br/>
+
+- OSPF & RIP routing
+- DHCP configuration
+- DNS services
+- WAN connectivity
+- End-to-end internet provisioning
+
+</details>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -222,28 +260,6 @@ Large-scale ISP infrastructure simulation built using Cisco Packet Tracer.
 - Jira for Project & Sprint Management
 - Clean Code Principles
 - Version Control
-
----
-
-## 📈 GitHub Analytics
-
-<p align="center">
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=m-danish-naveed&show_icons=true&theme=tokyonight"/>
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-danish-naveed&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## 📊 Contribution Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=m-danish-naveed&theme=tokyo-night"/>
-</p>
 
 ---
 
