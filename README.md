@@ -1,18 +1,14 @@
-<h1 align="center">Hi 👋, I'm Danish Naveed</h1>
+<div align="center">
 
-<h3 align="center">
-Backend Engineer | Spring Boot | Microservices | Distributed Systems | PostgreSQL
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6DB33F&height=200&section=header&text=Danish%20Naveed&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20%7C%20SQA%20%26%20Automation%20Enthusiast&descAlignY=55&descSize=18"/>
 
-<p align="center">
-Building scalable backend systems, secure REST APIs, and enterprise-grade software solutions.
-</p>
-
-<p align="center">
 <a href="https://github.com/m-danish-naveed">
 <img src="https://komarev.com/ghpvc/?username=m-danish-naveed&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </a>
-</p>
+
+<img src="https://readme-typing-svg.demolab.com/?lines=Backend+Engineer+%7C+Spring+Boot+%7C+Microservices;SQA+%26+Test+Automation+Enthusiast;CRM+%26+Workflow+Automation+Builder;Building+Scalable%2C+Secure+Systems;&font=Fira%20Code&center=true&width=600&height=45&color=0e75b6&vCenter=true&size=22"/>
+
+</div>
 
 ---
 
@@ -20,17 +16,17 @@ Building scalable backend systems, secure REST APIs, and enterprise-grade softwa
 
 Backend Engineer focused on designing and developing scalable backend applications, secure authentication systems, and enterprise-grade REST APIs using Java and the Spring ecosystem.
 
-I specialize in backend architecture, API development, database design, software engineering best practices, and business process automation. My focus is on building reliable, maintainable, and production-ready systems that solve real-world problems.
+I specialize in backend architecture, API development, database design, and software engineering best practices — building reliable, maintainable, production-ready systems. Alongside backend development, I bring hands-on experience in **software quality assurance** and **business process automation**, designing workflows and CRM automations that connect systems and eliminate manual work.
 
 ### Current Focus Areas
 
-- Microservices Architecture
-- Distributed Systems
-- Cloud-Native Applications
-- Docker & Containerization
-- CI/CD Pipelines
-- System Design
-- Enterprise Software Development
+- 🏗️ Microservices Architecture & Distributed Systems
+- ☁️ Cloud-Native Applications
+- 🐳 Docker & Containerization
+- 🔄 CI/CD Pipelines
+- 🧪 Software Quality Assurance & Test Automation
+- ⚙️ CRM & Business Workflow Automation
+- 📐 System Design
 
 ---
 
@@ -69,6 +65,28 @@ I specialize in backend architecture, API development, database design, software
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+</p>
+
+### Software Quality Assurance
+
+<p>
+<img src="https://img.shields.io/badge/Manual_Testing-4B32C3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Test_Case_Design-4B32C3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Bug_Tracking-CC0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+</p>
+
+### Automation & CRM Tools
+
+<p>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/GoHighLevel-000000?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Workflow_Automation-FF6B35?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CRM_Automation-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/API_Integrations-02569B?style=for-the-badge"/>
 </p>
 
 ### Architecture & Methodologies
@@ -124,6 +142,20 @@ Scalable business management platform designed around tenant isolation and secur
 
 ---
 
+### ⚙️ CRM Workflow Automation Suite
+
+Automated lead-to-customer workflows connecting CRM platforms with third-party services to remove manual, repetitive tasks.
+
+**Key Features**
+
+- GoHighLevel Pipeline & Funnel Automation
+- n8n-Based Workflow Orchestration
+- Event-Driven Triggers & Webhooks
+- API Integrations Across Multiple Platforms
+- Automated Lead Routing & Follow-Ups
+
+---
+
 ### 🌐 ISP Network Topology Simulation
 
 Large-scale ISP infrastructure simulation built using Cisco Packet Tracer.
@@ -167,15 +199,29 @@ Large-scale ISP infrastructure simulation built using Cisco Packet Tracer.
 - Data Modeling
 - Query Optimization
 
+### Software Quality Assurance
+
+- Manual & API Testing
+- Test Case Design & Execution
+- Unit & Integration Testing
+- Bug Tracking & Reporting
+- Jira for Test & Project Management
+
+### Automation & CRM
+
+- CRM Automation (GoHighLevel)
+- Workflow Design & Orchestration (n8n)
+- API Integrations & Webhooks
+- Business Process Automation
+- Lead & Pipeline Automation
+
 ### Software Engineering Practices
 
 - Agile Development
 - Scrum Framework
+- Jira for Project & Sprint Management
 - Clean Code Principles
 - Version Control
-- Unit Testing
-- Integration Testing
-- API Testing
 
 ---
 
@@ -193,14 +239,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-danish-nav
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=m-danish-naveed&theme=tokyonight"/>
-</p>
-
----
-
 ## 📊 Contribution Activity
 
 <p align="center">
@@ -213,10 +251,11 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-danish-nav
 
 - Backend Architecture
 - Enterprise Software Development
-- Microservices
-- Distributed Systems
+- Microservices & Distributed Systems
 - Cloud Computing
 - API Security
+- Software Quality Assurance
+- CRM & Workflow Automation
 - System Design
 
 ---
@@ -229,17 +268,9 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-danish-nav
 <img src="https://img.shields.io/badge/GitHub-m--danish--naveed-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-</p>
-
-<p align="left">
-
-<a href="www.linkedin.com/in/m-danish/naveed" target="_blank">
+<a href="https://www.linkedin.com/in/m-danish-naveed" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Danish%20Naveed-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
-</p>
-
-<p align="left">
 
 <a href="mailto:danish.naveed.work@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -249,8 +280,8 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-danish-nav
 
 ---
 
----
+<div align="center">
+<b>Building scalable backend systems, secure APIs, and smart automation solutions.</b>
 
-<p align="center">
-<b>Building scalable backend systems, secure APIs, and enterprise software solutions.</b>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:0e75b6&height=100&section=footer"/>
+</div>
