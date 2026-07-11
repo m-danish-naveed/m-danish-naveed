@@ -1,21 +1,29 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:2E9BB0,100:6DB33F&height=220&section=header&text=Hi%20There,%20I'm%20Danish%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Backend%20Engineer%20%C2%B7%20SQA%20%26%20Automation%20Specialist&descAlignY=55&descSize=18"/>
+# 👋 Hi There, I'm Danish Naveed
+
+### Backend Engineer &nbsp;·&nbsp; SQA & Automation Specialist
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%92%BB+Backend+Engineer+%7C+Java+%26+Spring+Boot;%F0%9F%A7%AA+SQA+%26+Test+Automation+Enthusiast;%E2%9A%99%EF%B8%8F+CRM+%26+Workflow+Automation+Builder;%F0%9F%9A%80+Building+Scalable%2C+Secure+Systems;&font=JetBrains+Mono&center=true&width=750&height=50&color=FF6B35&vCenter=true&size=24&pause=1200&separator=%3B&weight=700"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%92%BB+Backend+Engineer+%7C+Java+%26+Spring+Boot&font=JetBrains+Mono&center=true&width=520&height=45&duration=3000&color=58A6FF&vCenter=true&size=26&repeat=true"/>
+<br/>
+<img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%A7%AA+SQA+%26+Test+Automation+Enthusiast&font=JetBrains+Mono&center=true&width=520&height=45&duration=3000&color=2EA44F&vCenter=true&size=26&repeat=true"/>
+<br/>
+<img src="https://readme-typing-svg.demolab.com/?lines=%E2%9A%99%EF%B8%8F+CRM+%26+Workflow+Automation+Builder&font=JetBrains+Mono&center=true&width=520&height=45&duration=3000&color=FF6B35&vCenter=true&size=26&repeat=true"/>
+<br/>
+<img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%9A%80+Building+Scalable%2C+Secure+Systems&font=JetBrains+Mono&center=true&width=520&height=45&duration=3000&color=C678DD&vCenter=true&size=26&repeat=true"/>
 
 <br/><br/>
 
 <sub>⚙️ &nbsp;<b>BACKEND &amp; DATABASE</b></sub>
-
+<br/><br/>
 <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgres,mysql&theme=dark" />
 
-<br/>
+<br/><br/>
 
 <sub>🧪 &nbsp;<b>QA, DEVOPS &amp; AUTOMATION</b></sub>
-
+<br/><br/>
 <img src="https://skillicons.dev/icons?i=postman,selenium,cypress,jest,docker,git,github,githubactions&theme=dark" />
 
 <br/><br/>
@@ -29,8 +37,6 @@
 `⚡ Turning complex backend problems into clean, automated systems ⚡`
 
 </div>
-
-
 
 ---
 
