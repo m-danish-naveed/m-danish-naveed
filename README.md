@@ -119,89 +119,40 @@ I specialize in backend architecture, API development, database design, and soft
 <tr>
 <td width="50%" valign="top">
 
-### 🔐 Secure Task Manager API
+### 🔐 [task-manager-api](https://github.com/m-danish-naveed/task-manager-api)
 
-Enterprise-grade task management platform with secure authentication and fine-grained access control.
+Production-ready Task Manager REST API built with Spring Boot, JWT authentication & PostgreSQL.
 
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens"/> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black"/>
-
-<details>
-<summary>✨ Key Features</summary>
-<br/>
-
-- JWT Authentication & Role-Based Access Control (RBAC)
-- Secure REST APIs with the DTO pattern
-- Centralized validation & exception handling
-- PostgreSQL integration
-- Swagger / OpenAPI documentation
-- Unit testing coverage
-
-</details>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens"/> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
 
 </td>
 <td width="50%" valign="top">
 
-### 🏢 Multi-Tenant CRM Platform
+### 🌐 [enterprise-isp-infrastructure-simulation](https://github.com/m-danish-naveed/enterprise-isp-infrastructure-simulation)
 
-Scalable business management platform built around tenant isolation and secure data access.
+Network topology showcasing a centralized ISP core connected with multiple client networks using OSPF, RIP, DHCP, DNS, and IP subnetting in Cisco Packet Tracer.
 
-<img src="https://img.shields.io/badge/Multi--Tenant-0A66C2?style=flat-square"/> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
-
-<details>
-<summary>✨ Key Features</summary>
-<br/>
-
-- Multi-tenant architecture with strict data isolation
-- User management & role administration
-- Secure API design
-- Business workflow automation
-- PostgreSQL integration
-
-</details>
+<img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/> <img src="https://img.shields.io/badge/OSPF_%2F_RIP-0A66C2?style=flat-square"/> <img src="https://img.shields.io/badge/DHCP_%2F_DNS-0A66C2?style=flat-square"/>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### ⚙️ CRM Workflow Automation Suite
+### 🤖 [AI-QA-Documentation-Automation](https://github.com/m-danish-naveed/AI-QA-Documentation-Automation)
 
-Automated lead-to-customer workflows connecting CRM platforms with third-party services to eliminate manual, repetitive tasks.
+AI-powered QA documentation automation using n8n, Google Gemini, Google Docs, Google Sheets, and Webhooks.
 
-<img src="https://img.shields.io/badge/GoHighLevel-000000?style=flat-square"/> <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/> <img src="https://img.shields.io/badge/Webhooks-FF6B35?style=flat-square"/>
-
-<details>
-<summary>✨ Key Features</summary>
-<br/>
-
-- GoHighLevel pipeline & funnel automation
-- n8n-based workflow orchestration
-- Event-driven triggers & webhooks
-- API integrations across multiple platforms
-- Automated lead routing & follow-ups
-
-</details>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/> <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/> <img src="https://img.shields.io/badge/Webhooks-FF6B35?style=flat-square"/>
 
 </td>
 <td width="50%" valign="top">
 
-### 🌐 ISP Network Topology Simulation
+### 🌉 [ai-context-bridge](https://github.com/m-danish-naveed/ai-context-bridge)
 
-Large-scale ISP infrastructure simulation covering end-to-end internet provisioning.
+A local-first Chromium extension engineered to seamlessly migrate conversational contexts bi-directionally between ChatGPT and Claude across multiple user accounts via secure storage-driven automation.
 
-<img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/> <img src="https://img.shields.io/badge/Networking-0A66C2?style=flat-square"/>
-
-<details>
-<summary>✨ Key Features</summary>
-<br/>
-
-- OSPF & RIP routing
-- DHCP configuration
-- DNS services
-- WAN connectivity
-- End-to-end internet provisioning
-
-</details>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Chrome_Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white"/>
 
 </td>
 </tr>
@@ -211,55 +162,14 @@ Large-scale ISP infrastructure simulation covering end-to-end internet provision
 
 ## 🎯 Core Competencies
 
-### Backend Engineering
-
-- Spring Boot Development
-- RESTful API Design
-- Spring Security
-- JWT Authentication
-- API Documentation
-- Exception Handling
-- Validation
-
-### Software Architecture
-
-- Microservices Architecture
-- Distributed Systems
-- Multi-Tenant Architectures
-- Scalable Application Design
-- Service-Oriented Architecture
-
-### Database Engineering
-
-- PostgreSQL
-- MySQL
-- Relational Database Design
-- Data Modeling
-- Query Optimization
-
-### Software Quality Assurance
-
-- Manual & API Testing
-- Test Case Design & Execution
-- Unit & Integration Testing
-- Bug Tracking & Reporting
-- Jira for Test & Project Management
-
-### Automation & CRM
-
-- CRM Automation (GoHighLevel)
-- Workflow Design & Orchestration (n8n)
-- API Integrations & Webhooks
-- Business Process Automation
-- Lead & Pipeline Automation
-
-### Software Engineering Practices
-
-- Agile Development
-- Scrum Framework
-- Jira for Project & Sprint Management
-- Clean Code Principles
-- Version Control
+| Area | Skills |
+|---|---|
+| ⚙️ **Backend Engineering** | Spring Boot · RESTful API Design · Spring Security · JWT Authentication · API Documentation · Exception Handling · Validation |
+| 🏗️ **Software Architecture** | Microservices · Distributed Systems · Multi-Tenant Architectures · Scalable Application Design · Service-Oriented Architecture |
+| 🗄️ **Database Engineering** | PostgreSQL · MySQL · Relational Database Design · Data Modeling · Query Optimization |
+| 🧪 **Software Quality Assurance** | Manual & API Testing · Test Case Design & Execution · Unit & Integration Testing · Bug Tracking & Reporting · Jira |
+| 🔄 **Automation & CRM** | CRM Automation (GoHighLevel) · Workflow Orchestration (n8n) · API Integrations & Webhooks · Business Process Automation · Lead & Pipeline Automation |
+| 📋 **Engineering Practices** | Agile · Scrum · Jira for Sprint Management · Clean Code Principles · Version Control |
 
 ---
 
