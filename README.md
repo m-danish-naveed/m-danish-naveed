@@ -1,16 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6DB33F&height=200&section=header&text=Danish%20Naveed&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20%7C%20SQA%20%26%20Automation%20Enthusiast&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:2E9BB0,100:6DB33F&height=220&section=header&text=Hi%20There,%20I'm%20Danish%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Backend%20Engineer%20%C2%B7%20SQA%20%26%20Automation%20Specialist&descAlignY=55&descSize=18"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Backend+Engineer+%7C+Spring+Boot+%7C+Microservices;SQA+%26+Test+Automation+Enthusiast;CRM+%26+Workflow+Automation+Builder;Building+Scalable%2C+Secure+Systems;&font=Fira%20Code&center=true&width=700&height=45&color=0e75b6&vCenter=true&size=20"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%92%BB+Backend+Engineer+%7C+Java+%26+Spring+Boot;%F0%9F%A7%AA+SQA+%26+Test+Automation+Enthusiast;%E2%9A%99%EF%B8%8F+CRM+%26+Workflow+Automation+Builder;%F0%9F%9A%80+Building+Scalable%2C+Secure+Systems;&font=Fira+Code&center=true&width=750&height=50&color=0e75b6&vCenter=true&size=22&pause=1200&separator=%3B"/>
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,docker,git,github,jira&theme=dark" />
 
 <br/><br/>
 
 <a href="https://github.com/m-danish-naveed">
 <img src="https://komarev.com/ghpvc/?username=m-danish-naveed&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </a>
+
+<br/>
+
+`⚡ Turning complex backend problems into clean, automated systems ⚡`
 
 </div>
 
