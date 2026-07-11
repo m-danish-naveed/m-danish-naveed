@@ -1,26 +1,18 @@
 <div align="center">
 
-# M Danish Naveed
+# Danish Naveed
 
 ### Backend Engineer &nbsp;·&nbsp; SQA & Automation Specialist
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Backend+Engineer+%7C+Java+%26+Spring+Boot;SQA+%26+Test+Automation+Expert;CRM+%26+Workflow+Automation+Builder;Building+Scalable%2C+Secure+Systems&font=JetBrains+Mono&center=true&width=650&height=45&duration=3000&pause=800&color=58A6FF&vCenter=true&size=24&repeat=true"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=Backend+Engineer+%7C+Java+%26+Spring+Boot;SQA+%26+Test+Automation+Expert;CRM+%26+Workflow+Automation+Builder;Building+Scalable%2C+Secure+Systems&font=JetBrains+Mono&center=true&width=750&height=40&duration=3000&pause=800&color=58A6FF&vCenter=true&size=22&repeat=true"/>
 
-<br/><br/>
-
-**Backend & Database**
 <br/>
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgres,mysql&theme=dark" />
 
-<br/><br/>
+<img src="assets/skills-animation.svg" alt="Skills" />
 
-**QA, DevOps & Automation**
 <br/>
-<img src="https://skillicons.dev/icons?i=postman,selenium,cypress,jest,docker,git,github,githubactions&theme=dark" />
-
-<br/><br/>
 
 <a href="https://github.com/m-danish-naveed">
 <img src="https://komarev.com/ghpvc/?username=m-danish-naveed&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
