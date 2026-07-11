@@ -4,11 +4,19 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%92%BB+Backend+Engineer+%7C+Java+%26+Spring+Boot;%F0%9F%A7%AA+SQA+%26+Test+Automation+Enthusiast;%E2%9A%99%EF%B8%8F+CRM+%26+Workflow+Automation+Builder;%F0%9F%9A%80+Building+Scalable%2C+Secure+Systems;&font=Fira+Code&center=true&width=750&height=50&color=0e75b6&vCenter=true&size=22&pause=1200&separator=%3B"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%92%BB+Backend+Engineer+%7C+Java+%26+Spring+Boot;%F0%9F%A7%AA+SQA+%26+Test+Automation+Enthusiast;%E2%9A%99%EF%B8%8F+CRM+%26+Workflow+Automation+Builder;%F0%9F%9A%80+Building+Scalable%2C+Secure+Systems;&font=JetBrains+Mono&center=true&width=750&height=50&color=FF6B35&vCenter=true&size=24&pause=1200&separator=%3B&weight=700"/>
+
+<br/><br/>
+
+<sub>⚙️ &nbsp;<b>BACKEND &amp; DATABASE</b></sub>
+
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgres,mysql&theme=dark" />
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,docker,git,github,jira&theme=dark" />
+<sub>🧪 &nbsp;<b>QA, DEVOPS &amp; AUTOMATION</b></sub>
+
+<img src="https://skillicons.dev/icons?i=postman,selenium,cypress,jest,docker,git,github,githubactions&theme=dark" />
 
 <br/><br/>
 
@@ -16,11 +24,13 @@
 <img src="https://komarev.com/ghpvc/?username=m-danish-naveed&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </a>
 
-<br/>
+<br/><br/>
 
 `⚡ Turning complex backend problems into clean, automated systems ⚡`
 
 </div>
+
+
 
 ---
 
