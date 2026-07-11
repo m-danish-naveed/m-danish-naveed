@@ -1,6 +1,6 @@
 <div align="center">
 
-# Danish Naveed
+# M Danish Naveed
 
 ### Backend Engineer &nbsp;·&nbsp; SQA & Automation Specialist
 
